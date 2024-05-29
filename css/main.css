@@ -6,14 +6,20 @@ body {
   padding: 0;
 }
 
+header, footer {
+  background-color: rgb(253, 209, 175);
+  color: black;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 2rem;
+  font-weight: bold;
   color: darkgreen;
 }
 
@@ -33,7 +39,7 @@ img {
   flex-wrap: wrap;
   margin: 0;
   padding: 0;
-  background-color: yellowgreen;
+  background-color: rgb(246, 218, 230);
 }
 
 .main-nav ul li {
