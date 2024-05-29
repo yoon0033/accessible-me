@@ -6,19 +6,15 @@ body {
   padding: 0;
 }
 
-header, footer {
-  background-color: rgb(253, 209, 175);
-  color: black;
+
+h1 {
+  font-size: 50px;
+  color: rgb(2, 21, 2);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h2 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 2rem;
+  font-size: 40px;
   font-weight: bold;
   color: darkgreen;
 }
